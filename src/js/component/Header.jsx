@@ -24,9 +24,6 @@ const Header = (props) => {
                         <li className="nav-item">
                         <a className="nav-link text-light" href={props.referenciaLinkD}>{props.linkSegundarioD}</a>
                         </li>
-                        <li className="nav-item">
-                        <a className="nav-link disabled" aria-disabled="true">Link</a>
-                        </li>
                     </ul>
                     <form className="d-flex" role="search">
                         <input className="form-control me-2" type="search" placeholder="Servicios" aria-label="Search"/>
