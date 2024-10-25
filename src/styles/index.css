@@ -2,3 +2,11 @@
 body {
     background-color: rgb(241, 241, 255);
 }
+
+.descripcion {
+    background-image:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.centerwaysteel.com%2Fes%2Findex.html&psig=AOvVaw12QwvFefuWLnENzf-9qvW0&ust=1729596615145000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDq0dOvn4kDFQAAAAAdAAAAABAS);
+    padding: 5% 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

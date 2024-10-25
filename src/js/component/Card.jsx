@@ -4,7 +4,7 @@ const Card = (props) => {
 
 
     return (
-        <div className="card border border-dark p-3" style = {{width : '18rem'}} >
+        <div className="card border border-dark p-md-3 mx-3" style = {{width : '18rem'}} >
             <img src = {props.imagen} className="card-img-top" alt="..." />
             <div className="card-body text-center">
                 <h5 className="card-title fw-bold">{props.titulo}</h5>
